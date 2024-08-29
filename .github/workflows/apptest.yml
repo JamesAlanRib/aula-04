@@ -10,3 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
        - name: Testing new fix
+         uses: actions/checkout@v2
