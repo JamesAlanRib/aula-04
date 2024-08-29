@@ -8,5 +8,5 @@ on:
 jobs:
   new-feature:
     runs-on: ubuntu-latest
-     steps:
+    steps:
        - name: Testing new fix
