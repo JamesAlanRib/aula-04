@@ -4,6 +4,7 @@ on:
     branches:
        - develop
        - bug_fix
+       
 jobs:
   new-feature:
     runs-on: ubuntu-latest
